@@ -1,0 +1,32 @@
+.reg-form{
+    margin: 8rem auto;
+    border: 1px solid #ccc;
+    padding: 30px;
+    width: 30rem;
+    border-radius: 10px;
+    /* background-color:#ee004b; */
+    background-color: #aa6b77 ;
+    border: none;
+}
+
+.reg-heading{
+    color:#fff;
+    text-align: center;
+}
+
+.form-label{
+    font-weight: bold;
+    color:#fff;
+}
+
+.form-input{
+    padding: 6px 30px;
+    border: none;
+    border-radius: 3px;
+}
+
+.table-row{
+    margin: 10px 0;
+}
+
+

@@ -1,0 +1,3 @@
+cd api_fetch_user_details
+
+npm start

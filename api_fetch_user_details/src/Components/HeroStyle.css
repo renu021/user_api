@@ -1,0 +1,27 @@
+.hero-section{
+   display:flex;
+    align-items: center;
+   
+}
+
+.title{
+    text-align: center;
+    color: #141414;
+    
+}
+
+.hero-left,p{
+    margin: 10px 50px;
+    font-size: 1.3rem;
+    color: #141414;
+}
+
+.hero-img{
+  height: 500px;
+  margin: 60px;
+
+}
+
+body{
+    background-color: #f3fcfd;
+}
